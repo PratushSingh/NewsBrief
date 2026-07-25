@@ -1,0 +1,14 @@
+.git
+.github
+.idea
+.venv
+.phase4-venv
+__pycache__
+*.py[cod]
+.coverage
+.pytest_cache
+.mypy_cache
+.ruff_cache
+docs
+tests
+
