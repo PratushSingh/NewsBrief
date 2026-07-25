@@ -5,7 +5,8 @@ international RSS feeds into a calm, category-first reading experience.
 It extracts article text for concise, complete summaries and always links
 readers back to the original publisher.
 
-![NewsBrief desktop interface](docs/images/desktop-home.png)
+<img width="1774" height="887" alt="call_SdwuAPeZU3otNfsUbmZLXsjf" src="https://github.com/user-attachments/assets/a542b240-3a12-4177-a027-4b99fd6e401f" />
+
 
 ## Why this project
 
