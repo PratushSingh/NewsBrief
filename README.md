@@ -86,10 +86,11 @@ See [Architecture](docs/architecture.md) for request flow, trust boundaries,
 and design decisions.
 
 ## Screenshots
-<img width="1920" height="1029" alt="Screenshot 2026-07-25 22 24 39" src="https://github.com/user-attachments/assets/a353bb24-5f39-4103-b11b-8224ae56a35b" />
-<img width="1920" height="1029" alt="Screenshot 2026-07-25 22 24 54" src="https://github.com/user-attachments/assets/b8400b6c-f4ed-40ca-9ac8-0eb8b595f69b" />
-<img width="1920" height="1029" alt="Screenshot 2026-07-25 22 25 29" src="https://github.com/user-attachments/assets/047dc613-f743-4a87-ad87-40c5dcf88d7c" />
-<img width="1920" height="1029" alt="Screenshot 2026-07-25 22 25 46" src="https://github.com/user-attachments/assets/441029b4-5574-4f05-a9ba-ba01aa39d14b" />
+<img width="1311" height="874" alt="Screenshot 2026-07-25 22 24 54" src="https://github.com/user-attachments/assets/c937b223-a12e-481b-81da-7db0c426ade3" />
+<img width="1306" height="871" alt="Screenshot 2026-07-25 22 25 29" src="https://github.com/user-attachments/assets/da9933d5-3e12-41b8-83ad-8eb027ccffce" />
+<img width="1306" height="871" alt="Screenshot 2026-07-25 22 25 46" src="https://github.com/user-attachments/assets/c5e5d86b-5aeb-4c09-b5c2-ba674736b555" />
+<img width="1314" height="876" alt="Screenshot 2026-07-25 22 24 39" src="https://github.com/user-attachments/assets/abbe5de8-0836-4223-ac50-4cfa7c8bfa02" />
+
 
 
 | Weather theme | Mobile layout |
