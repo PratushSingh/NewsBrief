@@ -85,7 +85,12 @@ flowchart LR
 See [Architecture](docs/architecture.md) for request flow, trust boundaries,
 and design decisions.
 
-## Screens
+## Screenshots
+<img width="1920" height="1029" alt="Screenshot 2026-07-25 22 24 39" src="https://github.com/user-attachments/assets/a353bb24-5f39-4103-b11b-8224ae56a35b" />
+<img width="1920" height="1029" alt="Screenshot 2026-07-25 22 24 54" src="https://github.com/user-attachments/assets/b8400b6c-f4ed-40ca-9ac8-0eb8b595f69b" />
+<img width="1920" height="1029" alt="Screenshot 2026-07-25 22 25 29" src="https://github.com/user-attachments/assets/047dc613-f743-4a87-ad87-40c5dcf88d7c" />
+<img width="1920" height="1029" alt="Screenshot 2026-07-25 22 25 46" src="https://github.com/user-attachments/assets/441029b4-5574-4f05-a9ba-ba01aa39d14b" />
+
 
 | Weather theme | Mobile layout |
 | --- | --- |
